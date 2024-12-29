@@ -5,7 +5,7 @@ body, html {
   width: 100%;
   height: 100%;
   background-color: #f8f9fa; /* Cor do fundo */
-  font-family: 'Arial', sans-serif;
+  font-family: 'Spline Sans', sans-serif; /* Fonte Spline Sans */
   display: flex;
   justify-content: center;
   align-items: center;
